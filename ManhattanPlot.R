@@ -10,7 +10,7 @@ library(tidyr)
 # Bed file should be in the following order (no header)
 # chr start end region_id counts
 
-file <- '~/Desktop/plots/36087_met_somatic_Mutect2.windows.bed'
+file <- ''
 x_label = 'Chromosomes'
 y_label = 'Count Density'
 
